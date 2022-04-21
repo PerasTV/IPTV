@@ -1,14 +1,24 @@
 #EXTM3U
-#EXTINF:-1,PT: SPORT TV1 FHD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159089.ts
+#EXTINF:-1,PT : SPORT TV 1 (4)
+http://mains.services:2086/stanleyg/6916329/92132
 #EXTINF:-1,PT: SPORT TV1 FHD (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159090.ts
-#EXTINF:-1,PT: SPORT TV1  HD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159086.ts
-#EXTINF:-1,PT: SPORT TV1 (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159085.ts
-#EXTINF:-1,PT: SPORT TV2 FHD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159094.ts
+#EXTINF:-1,PT: Sport Tv 1 ⁴ᵏ ʰ²⁶⁵ (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106352
+#EXTINF:-1,PT: Sport Tv 1 FHD  (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106353
+#EXTINF:-1,PT: Sport Tv 1 FHD (extra) (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106354
+#EXTINF:-1,PT: SportTv 1 ᶠʰᵈ ²⁶⁵ (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106355
+#EXTINF:-1,PT: Sport Tv 1 ʰᵈ ᴴ²⁶⁵ (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106356
+#EXTINF:-1,PT: Sport Tv 1 HD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106357
+#EXTINF:-1,PT: Sport TV 1 (7)
+http://fortv.cc:8080/alphonso/alphonso/78513
+#EXTINF:-1,PT : SPORT TV 2 (4)
+http://mains.services:2086/stanleyg/6916329/92133
 #EXTINF:-1,PT: SPORT TV2 FHD (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159095.ts
 #EXTINF:-1,PT: SPORT TV2 HD HEVC (5)
@@ -17,289 +27,234 @@ http://king-tv.net:8080/mugazif/pFzGNPNUwt/276674.ts
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159091.ts
 #EXTINF:-1,PT: SPORT TV2 (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/276675.ts
-#EXTINF:-1,PT: SPORT TV3 FHD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159099.ts
+#EXTINF:-1,PT: Sport Tv 2 FHD  (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106361
+#EXTINF:-1,PT: Sport Tv 2 FHD (extra) (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106362
+#EXTINF:-1,PT: SportTv 2 ᶠʰᵈ ²⁶⁵ (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106363
+#EXTINF:-1,PT: Sport Tv 2 HD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106365
+#EXTINF:-1,PT: Sport TV 2 (7)
+#EXTINF:-1,PT : SPORT TV 3 (4)
+http://mains.services:2086/stanleyg/6916329/92134
+http://fortv.cc:8080/alphonso/alphonso/78515
 #EXTINF:-1,PT: SPORT TV3 FHD (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159100.ts
-#EXTINF:-1,PT: SPORT TV3 HD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276676.ts
-#EXTINF:-1,PT: SPORT TV3 HD (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276677.ts
 #EXTINF:-1,PT: SPORT TV3 (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159096.ts
-#EXTINF:-1,PT: SPORT TV4 FHD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159104.ts
+#EXTINF:-1,PT: Sport Tv 3 FHD  (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106367
+#EXTINF:-1,PT: Sport Tv 3 FHD (extra) (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106368
+#EXTINF:-1,PT: Sport Tv 3 ᶠʰᵈ ²⁶⁵ (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106369
+#EXTINF:-1,PT: Sport Tv 3 ʰᵈ ᴴ²⁶⁵ (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106370
+#EXTINF:-1,PT: Sport Tv 3 HD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106371
+#EXTINF:-1,PT: Sport TV 3 (7)
+#EXTINF:-1,PT : SPORT TV 4 (4)
+http://mains.services:2086/stanleyg/6916329/92135
 #EXTINF:-1,PT: SPORT TV4 FHD (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159105.ts
-#EXTINF:-1,PT: SPORT TV4 HD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276756.ts
-#EXTINF:-1,PT: SPORT TV4 HD (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276678.ts
 #EXTINF:-1,PT: SPORT TV4 (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159101.ts
-#EXTINF:-1,PT: SPORT TV5 FHD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159110.ts
+#EXTINF:-1,PT: Sport Tv 4 FHD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106374
+#EXTINF:-1,PT: Sport Tv 4 ʰᵈ ᴴ²⁶⁵ (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106375
+#EXTINF:-1,PT: Sport Tv 4 HD (6) 
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106376
+#EXTINF:-1,PT: SPORT TV 4 (7)
+http://fortv.cc:8080/alphonso/alphonso/78494
 #EXTINF:-1,PT: SPORT TV5 FHD (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159111.ts
-#EXTINF:-1,PT: SPORT TV5 HD (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276679.ts
-#EXTINF:-1,PT: SPORT TV5 HD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276757.ts
 #EXTINF:-1,PT: SPORT TV5 (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159107.ts
-#EXTINF:-1,PT: SPORT TV6 FHD (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159118.ts
-#EXTINF:-1,PT: SPORT TV6 FHD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159119.ts
-#EXTINF:-1,PT: SPORT TV6 (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276680.ts
+#EXTINF:-1,PT: Sport Tv 5 FHD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106378
+#EXTINF:-1,PT: Sport Tv 5 ʰᵈ ᴴ²⁶⁵ (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106379
+#EXTINF:-1,PT: Sport Tv 5 HD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106380
+#EXTINF:-1,Pt: Sport tv 6 FHD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106536
 #EXTINF:-1,PT: SPORT TV NBA FHD (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159115.ts
-#EXTINF:-1,PT: SPORT TV NBA HD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276682.ts
 #EXTINF:-1,PT: SPORT TV NBA HD (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159114.ts
 #EXTINF:-1,PT: SPORT TV NBA (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159113.ts
-#EXTINF:-1,PT: SPORT TV 4K UHD (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159088.ts
-#EXTINF:-1,PT: BTV 4K (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276681.ts
-#EXTINF:-1,PT: BTV FHD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276758.ts
-#EXTINF:-1,PT: BTV FHD (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159120.ts
-#EXTINF:-1,PT: BTV HD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276759.ts
+#EXTINF:-1,PT: Sport Tv NBA (6) 
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106346
+#EXTINF:-1,PT: Sport Tv Nba ʰᵈ ᴴ²⁶⁵ (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106347
 #EXTINF:-1,PT: BTV HD (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159117.ts
 #EXTINF:-1,PT: BTV (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159116.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159123.ts
+#EXTINF:-1,PT: Btv ⁴ᵏ ʰ²⁶⁵ (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106382
+#EXTINF:-1,PT: BTV FHD  (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106383
+#EXTINF:-1,PT: BTV 1 FHD (extra) (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106384
+#EXTINF:-1,PT: BTV ᶠʰᵈ ²⁶⁵ (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106385
+#EXTINF:-1,PT: Btv ʰᵈ ᴴ²⁶⁵ (6) 
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106386
+#EXTINF:-1,PT: BTV HD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106387
+#EXTINF:-1,PT : ELEVEN SPORTS 1 (4)
+http://mains.services:2086/stanleyg/6916329/92137
 #EXTINF:-1,PT: ELEVEN SPORTS 1 FHD (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159124.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 1 HD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276709.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 1 HD (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159122.ts
 #EXTINF:-1,PT: ELEVEN SPORTS 1 (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159121.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159127.ts
+#EXTINF:-1,PT: Eleven Sports 1 FHD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106389
+#EXTINF:-1,PT: Eleven 1 ᶠʰᵈ ²⁶⁵ (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106390
+#EXTINF:-1,PT: Eleven 1 ʰᵈ ᴴ²⁶⁵ (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106391
+#EXTINF:-1,PT: Eleven Sports 1 HD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106392
+#EXTINF:-1,PT : ELEVEN SPORTS 2 (4)
+http://mains.services:2086/stanleyg/6916329/92138
 #EXTINF:-1,PT: ELEVEN SPORTS 2 FHD (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159128.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276710.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159126.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 2 (5) 
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159125.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159132.ts
+#EXTINF:-1,PT: Eleven Sports 2 FHD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106394
+#EXTINF:-1,PT: Eleven 2 ᶠʰᵈ ²⁶⁵ (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106395
+#EXTINF:-1,PT: Eleven 2 HD (7)
+http://fortv.cc:8080/alphonso/alphonso/78455
+#EXTINF:-1,PT : ELEVEN SPORTS 3 (4)
+http://mains.services:2086/stanleyg/6916329/92139
 #EXTINF:-1,PT: ELEVEN SPORTS 3 FHD (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159131.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276711.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159130.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 3 (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159129.ts
+#EXTINF:-1,PT: Eleven Sports 3 FHD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106399
+#EXTINF:-1,PT: Eleven 3 (7)
+http://fortv.cc:8080/alphonso/alphonso/78456
+#EXTINF:-1,PT : ELEVEN SPORTS 4 (4)
+http://mains.services:2086/stanleyg/6916329/92140
 #EXTINF:-1,PT: ELEVEN SPORTS 4 FHD HEVC (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159136.ts
 #EXTINF:-1,PT: ELEVEN SPORTS 4 FHD (5)
 http://king-tv.net:8080/mugazif/pFzGNPNUwt/159135.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276766.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 4 (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159134.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159140.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159139.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276767.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 5 (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159138.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159144.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159143.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 6 HD HEVC (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/276768.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 6 (5)
-http://king-tv.net:8080/mugazif/pFzGNPNUwt/159142.ts
-#EXTINF:-1,PT : SPORT TV 1 (4)
-http://mains.services:2086/stanleyg/6916329/92132
-#EXTINF:-1,PT : SPORT TV 2 (4)
-http://mains.services:2086/stanleyg/6916329/92133
-#EXTINF:-1,PT : SPORT TV 3 (4)
-http://mains.services:2086/stanleyg/6916329/92134
-#EXTINF:-1,PT : SPORT TV 4 (4)
-http://mains.services:2086/stanleyg/6916329/92135
-#EXTINF:-1,PT : ELEVEN SPORTS 1 (4)
-http://mains.services:2086/stanleyg/6916329/92137
-#EXTINF:-1,PT : ELEVEN SPORTS 2 (4)
-http://mains.services:2086/stanleyg/6916329/92138
-#EXTINF:-1,PT : ELEVEN SPORTS 3 (4)
-http://mains.services:2086/stanleyg/6916329/92139
-#EXTINF:-1,PT : ELEVEN SPORTS 4 (4)
-http://mains.services:2086/stanleyg/6916329/92140
-#EXTINF:-1,PT : ELEVEN SPORTS 5 (4)
-http://mains.services:2086/stanleyg/6916329/92141
-#EXTINF:-1,PT : ELEVEN SPORTS 6 (4)
-http://mains.services:2086/stanleyg/6916329/92142
-#EXTINF:-1,Pt: Sport tv 6 FHD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106536
-#EXTINF:-1,PT: Eleven Sports 6 SD (6) 
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106412
-#EXTINF:-1,PT: Eleven Sports 6 HD (6) 
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106411
-#EXTINF:-1,PT: Eleven Sports 6 FHD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106410
-#EXTINF:-1,PT: Eleven Sports 5 SD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106409
-#EXTINF:-1,PT: Eleven Sports 5 HD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106408
-#EXTINF:-1,PT: Eleven Sports 5 FHD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106407
-#EXTINF:-1,PT: Eleven Sports 4 SD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106406
-#EXTINF:-1,PT: Eleven Sports 4 HD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106405
 #EXTINF:-1,PT: Eleven Sports 4 FHD (6)
 http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106404
-#EXTINF:-1,PT: Eleven Sports 3 SD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106403
-#EXTINF:-1,PT: Eleven Sports 3 HD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106402
-#EXTINF:-1,PT: Eleven 3  ʰᵈ ᴴ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106401
-#EXTINF:-1,PT: Eleven 3 ᶠʰᵈ ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106400
-#EXTINF:-1,PT: Eleven Sports 3 FHD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106399
-#EXTINF:-1,PT: Eleven Sports 2 SD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106398
-#EXTINF:-1,PT: Eleven Sports 2 HD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106397
-#EXTINF:-1,PT: Eleven 2 ʰᵈ ᴴ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106396
-#EXTINF:-1,PT: Eleven 2 ᶠʰᵈ ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106395
-#EXTINF:-1,PT: Eleven Sports 2 FHD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106394
-#EXTINF:-1,PT: Eleven Sports 1 SD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106393
-#EXTINF:-1,PT: Eleven Sports 1 HD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106392
-#EXTINF:-1,PT: Eleven 1 ʰᵈ ᴴ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106391
-#EXTINF:-1,PT: Eleven 1 ᶠʰᵈ ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106390
-#EXTINF:-1,PT: Eleven Sports 1 FHD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106389
-#EXTINF:-1,PT: BTV SD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106388
-#EXTINF:-1,PT: BTV HD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106387
-#EXTINF:-1,PT: Btv ʰᵈ ᴴ²⁶⁵ (6) 
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106386
-#EXTINF:-1,PT: BTV ᶠʰᵈ ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106385
-#EXTINF:-1,PT: BTV 1 FHD (extra) (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106384
-#EXTINF:-1,PT: BTV FHD  (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106383
-#EXTINF:-1,PT: Btv ⁴ᵏ ʰ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106382
-#EXTINF:-1,PT: Sport Tv 5 SD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106381
-#EXTINF:-1,PT: Sport Tv 5 HD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106380
-#EXTINF:-1,PT: Sport Tv 5 ʰᵈ ᴴ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106379
-#EXTINF:-1,PT: Sport Tv 5 FHD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106378
-#EXTINF:-1,PT: Sport Tv 4 SD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106377
-#EXTINF:-1,PT: Sport Tv 4 HD (6) 
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106376
-#EXTINF:-1,PT: Sport Tv 4 ʰᵈ ᴴ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106375
-#EXTINF:-1,PT: Sport Tv 4 FHD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106374
-#EXTINF:-1,PT: Sport Tv 3 SD (extra) (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106373
-#EXTINF:-1,PT: Sport Tv 3 SD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106372
-#EXTINF:-1,PT: Sport Tv 3 HD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106371
-#EXTINF:-1,PT: Sport Tv 3 ʰᵈ ᴴ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106370
-#EXTINF:-1,PT: Sport Tv 3 ᶠʰᵈ ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106369
-#EXTINF:-1,PT: Sport Tv 3 FHD (extra) (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106368
-#EXTINF:-1,PT: Sport Tv 3 FHD  (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106367
-#EXTINF:-1,PT: Sport Tv 2 SD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106366
-#EXTINF:-1,PT: Sport Tv 2 HD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106365
-#EXTINF:-1,PT: Sport Tv 2 ʰᵈ ᴴ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106364
-#EXTINF:-1,PT: SportTv 2 ᶠʰᵈ ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106363
-#EXTINF:-1,PT: Sport Tv 2 FHD (extra) (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106362
-#EXTINF:-1,PT: Sport Tv 2 FHD  (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106361
-#EXTINF:-1,PT: Sport Tv 2 SD (extra) (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106360
-#EXTINF:-1,PT: Sport Tv 1 SD (extra) (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106359
-#EXTINF:-1,PT: Sport Tv 1 SD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106358
-#EXTINF:-1,PT: Sport Tv 1 HD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106357
-#EXTINF:-1,PT: Sport Tv 1 ʰᵈ ᴴ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106356
-#EXTINF:-1,PT: SportTv 1 ᶠʰᵈ ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106355
-#EXTINF:-1,PT: Sport Tv 1 FHD (extra) (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106354
-#EXTINF:-1,PT: Sport Tv 1 FHD  (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106353
-#EXTINF:-1,PT: Sport Tv 1 ⁴ᵏ ʰ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106352
-#EXTINF:-1,PT: Sport Tv + (extra) (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106351
-#EXTINF:-1,PT: Sport Tv + (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106350
-#EXTINF:-1,PT: Sport Tv + ʰᵈ ᴴ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106349
-#EXTINF:-1,PT: Sport Tv + FHD (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106348
-#EXTINF:-1,PT: Sport Tv Nba ʰᵈ ᴴ²⁶⁵ (6)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106347
-#EXTINF:-1,PT: Sport Tv NBA (6) 
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106346
-#EXTINF:-1,PT: SPORT TV 4 (7)
-http://fortv.cc:8080/alphonso/alphonso/78494
-#EXTINF:-1,PT: Sport TV 1 (7)
-http://fortv.cc:8080/alphonso/alphonso/78513
-#EXTINF:-1,PT: Sport TV 2 (7)
-http://fortv.cc:8080/alphonso/alphonso/78515
-#EXTINF:-1,PT: Sport TV 3 (7)
-http://fortv.cc:8080/alphonso/alphonso/78517
-#EXTINF:-1,PT: Eleven 2 HD (7)
-http://fortv.cc:8080/alphonso/alphonso/78455
-#EXTINF:-1,PT: Eleven 3 (7)
-http://fortv.cc:8080/alphonso/alphonso/78456
+#EXTINF:-1,PT: Eleven Sports 4 HD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106405
 #EXTINF:-1,PT: Eleven 4 (7)
 http://fortv.cc:8080/alphonso/alphonso/78457
+#EXTINF:-1,PT : ELEVEN SPORTS 5 (4)
+http://mains.services:2086/stanleyg/6916329/92141
 #EXTINF:-1,PT: Eleven 5 (7)
 http://fortv.cc:8080/alphonso/alphonso/78458
+#EXTINF:-1,PT : ELEVEN SPORTS 6 (4)
+http://mains.services:2086/stanleyg/6916329/92142
 #EXTINF:-1,PT: Eleven 6 (7)
 http://fortv.cc:8080/alphonso/alphonso/78459 (7)
+#EXTINF:-1,PT: NAO FUNFANDO Eleven Sports 2 HD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106397
+#EXTINF:-1,PT: NAO FUNFANDO Eleven 3 ᶠʰᵈ ²⁶⁵ (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106400
+#EXTINF:-1,PT: NAO FUNFANDO Eleven 3  ʰᵈ ᴴ²⁶⁵ (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106401
+#EXTINF:-1,PT: NAO FUNFANDO Eleven Sports 3 HD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106402
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 6 HD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276768.ts
+#EXTINF:-1,PT: NAO FUNFANDO Eleven Sports 6 FHD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106410
+#EXTINF:-1,PT: NAO FUNFANDO Eleven Sports 6 HD (6) 
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106411
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 6 (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159142.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 6 FHD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159144.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 6 FHD (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159143.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 5 (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159138.ts
+#EXTINF:-1,PT: NAO FUNFANDO Eleven Sports 5 FHD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106407
+#EXTINF:-1,PT: NAO FUNFANDO Eleven Sports 5 HD (6)
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106408
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 5 FHD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159140.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 5 FHD (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159139.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 5 HD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276767.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 4 HD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276766.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 4 (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159134.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 3 HD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276711.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 3 HD (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159130.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 3 (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159129.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 3 FHD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159132.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 2 HD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276710.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 2 HD (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159126.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 2 (5) 
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159125.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 2 FHD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159127.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 1 HD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276709.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 1 HD (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159122.ts
+#EXTINF:-1,PT: NAO FUNFANDO ELEVEN SPORTS 1 FHD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159123.ts
+#EXTINF:-1,PT: NAO FUNFANDO BTV FHD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276758.ts
+#EXTINF:-1,PT: NAO FUNFANDO BTV FHD (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159120.ts
+#EXTINF:-1,PT: NAO FUNFANDO BTV HD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276759.ts
+#EXTINF:-1,PT: NAO FUNFANDO BTV 4K (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276681.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV NBA HD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276682.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV6 FHD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159119.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV6 (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276680.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV6 FHD (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159118.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV5 HD (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276679.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV5 HD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276757.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV5 FHD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159110.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV4 HD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276756.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV4 HD (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276678.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV4 FHD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159104.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV3 HD (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276677.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV3 HD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/276676.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV3 FHD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159099.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV2 FHD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159094.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV1 (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159085.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV1  HD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159086.ts
+#EXTINF:-1,PT: NAO FUNFANDO SPORT TV1 FHD HEVC (5)
+http://king-tv.net:8080/mugazif/pFzGNPNUwt/159089.ts
